@@ -17,12 +17,6 @@ The RAG system is built on the following core components:
 
 ## Getting Started
 
-### Prerequisites
-- Python 3.8+
-- Install dependencies from the `requirements.txt`:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ### Installation
 1. Clone this repository:
